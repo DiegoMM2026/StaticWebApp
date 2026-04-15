@@ -1,7 +1,8 @@
+
 {
   "routes": [
     {
-      "route": "/",
+      "route": "/privado",
       "allowedRoles": ["authenticated"]
     }
   ]
