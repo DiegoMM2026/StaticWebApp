@@ -1,4 +1,10 @@
 {
+  "routes": [
+    {
+      "route": "/privado",
+      "allowedRoles": ["authenticated"]
+    }
+  ],
   "navigationFallback": {
     "rewrite": "/index.html"
   }
