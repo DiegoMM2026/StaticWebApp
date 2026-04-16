@@ -1,14 +1,9 @@
 {
   "routes": [
     {
-      "route": "/privado",
-      "serve": "/privado.html",
+      "route": "/privado.html",
       "allowedRoles": ["authenticated"]
-    },
-    {
-      "route": "/*",
-      "serve": "/index.html"
     }
   ]
 }
-``
+
