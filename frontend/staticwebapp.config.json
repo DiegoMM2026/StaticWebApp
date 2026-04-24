@@ -14,9 +14,5 @@
       "rewrite": "/index.html",
       "statusCode": 403
     }
-  },
-  "navigationFallback": {
-    "rewrite": "/index.html"
   }
 }
-
